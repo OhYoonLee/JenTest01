@@ -4,6 +4,7 @@ public class main {
 		System.out.println("Hello, world!");
 		
 		System.out.println("Make Branch");
+		System.out.println("Branch commit test");
 	}
 }
  
