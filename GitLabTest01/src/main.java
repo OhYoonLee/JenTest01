@@ -5,6 +5,10 @@ public class main {
 		
 		System.out.println("Make Branch");
 		System.out.println("Branch commit test");
+	
+		// commit Test
+		System.out.println("JenTest 01 commit test");
+
 	}
 }
  
